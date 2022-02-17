@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ Fun fact: I do not know how to code.
+⚡ I do not know how to code.
 
 <!--
 **saggyballsack69/saggyballsack69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
